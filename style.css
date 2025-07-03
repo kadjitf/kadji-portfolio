@@ -105,8 +105,8 @@ li a:hover {
   margin-left: 300px;
 }
 .about{
-  margin-top: 50px;
-  background: white;
+  margin-top: 150px;
+  background: whitesmoke;
   
 }
   
@@ -249,10 +249,11 @@ body{
 }
 .stay{text-align: center;
   background: whitesmoke;
+  margin-bottom: 50px;
 
 }
 .mk{
-  margin-top: 300px;
+  margin-top: 160px;
 }
 .placeholder{
   padding:10px 20px;
@@ -326,14 +327,23 @@ body{
 }
 .u{
   border-radius: 30px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 body{
   background-color: whitesmoke;
+  
+  
 }
 .footer{
   background-color: #e05d47;
 }
 .pk{
   margin-bottom: 140px;
+}
+.aa{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.a{
+  margin-top: 120px;
 }
