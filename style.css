@@ -213,8 +213,9 @@ body{
   text-align: center;
   justify-content: center;
   background: white;
-  margin-bottom: 80px;
+  margin-bottom: 180px;
   background-color: whitesmoke;
+  margin-top: 180px;
 }
 .red{
   color: #e05d47;
@@ -332,4 +333,7 @@ body{
 }
 .footer{
   background-color: #e05d47;
+}
+.pk{
+  margin-bottom: 140px;
 }
